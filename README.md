@@ -1,5 +1,5 @@
-# Финансоввый анализ
-  
+# Финансовый анализ
+ [ipynb](https://github.com/ama-lls/Financial-analysis/blob/main/Финансовый%20анализ.ipynb)
 
 ## Описание проекта
 
